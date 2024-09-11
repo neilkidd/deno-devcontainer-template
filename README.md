@@ -13,4 +13,4 @@ Take a copy of this (template) repo into your own account and choose one of the 
 
 * Open in Github Codespaces
 * Clone to your local machine and open in VS Code.
-* Profit ...
+* Profit ..
